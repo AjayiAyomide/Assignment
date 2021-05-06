@@ -1,0 +1,13 @@
+body {
+    background:red;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.pad-well {
+    padding: 2rem;
+}
+.orange-text {
+    color:yellow;
+    font-size: 3rem;
+    font-style: italic;
+}
